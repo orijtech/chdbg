@@ -23,3 +23,6 @@ exit status 2
 ```
 
 It is expected that the tool will develop to cover more chain halt causes.
+
+# LICENSE
+Copyright Cosmos Network Authors. All Rights Reserved.
